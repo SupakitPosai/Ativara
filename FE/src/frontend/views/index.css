@@ -1,0 +1,54 @@
+.form-control {
+  border-radius: 0;
+  border: unset;
+  background-color: #ece3d9;
+}
+.form-control:focus {
+  box-shadow: unset;
+}
+.react-datepicker-wrapper {
+  width: 100%;
+}
+.btn1:hover {
+  background-color: #191818 !important;
+}
+.aa {
+  color: #dee2e6;
+}
+.aa:focus,
+.aa:active,
+.aa:hover {
+  color: #000;
+  text-decoration: unset;
+}
+.caa:hover,
+.caa:active,
+.caa:focus {
+  border: #90725c 1px solid;
+}
+.caaactive {
+  color: #000;
+  border: #90725c 1px solid;
+}
+.MuiButton-containedSecondary:hover {
+  background-color: #90725c !important;
+}
+@media (max-width: 992px) {
+  .bandimg {
+    display: none;
+  }
+  .bandimg2 {
+    padding-left: 0 !important;
+  }
+  .navvv1 {
+    padding: 0.5rem !important;
+  }
+}
+@media (max-width: 425px) {
+  .textbannn {
+    font-size: 8vw;
+  }
+  .textbannn2 {
+    font-size: 3.5vw;
+  }
+}
